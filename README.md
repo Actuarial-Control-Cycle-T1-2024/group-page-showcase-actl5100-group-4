@@ -1,23 +1,12 @@
-# Actuarial Theory and Practice A @ UNSW
+# Society of Actuaries Case Study - Group 4
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+This is written in markdown language. https://en.wikipedia.org/wiki/Markdown
 
----
 
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
+### Premise
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
+The goal of this assignment was to develop a **health incentive program** for the fictional country of Lumaria. We were given AI generated life insurance data, some health program interventions and general economic/encyclopedic data on the fictional country. We were tasked with creating a program with the focus on reducing mortality, and generating profits for the company and discounts for policyholders.
 
-This is written in markdown language. 
->
-* Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
+### R Code
 
-#### Follow the [guide doc](doc1.pdf) to submit your work. 
-
-When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
----
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
+The provided R Code utilises the crude mortality rates to calculate the expected value of a policy before and after the mortality adjustments. It utilises parallel programming to speed up the calculations and commonly used packages like _dplyr_ and _ggplot2_ to perform data wrangling and exploratory data analysis.
