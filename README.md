@@ -118,6 +118,7 @@ Table 3: Whole Life Insurance - (Age 35, 2 Mil DB)
 </p>
 <p align="center">
      Figure 4: Whole Life Policy - Claims Forecast
+</p>
 
 In the Whole Life Policy, the new mortality rates resulting from the program seems to shift the graph of the outflows to the right. This is due to the expected increase in mortality of the individuals who are classified as a smoker as a result of the interventions. At a 6% discount factor the present value of the claims and intervention costs provides a benefit of 71,212 (Č) over the life of the policy sold solely in relation to claims cost.
 
